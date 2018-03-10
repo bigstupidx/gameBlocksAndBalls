@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2cb8458ff4bad9449bee5eeef00b01bf
+timeCreated: 1428550942
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - light_Mat: {instanceID: 0}
+  - dark_Mat: {instanceID: 0}
+  - rend: {instanceID: 0}
+  - trail: {fileID: 144904, guid: 0097c5ee29df98740adabee852114f63, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

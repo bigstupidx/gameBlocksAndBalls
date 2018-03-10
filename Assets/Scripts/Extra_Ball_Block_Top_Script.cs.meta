@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4e806fbc0489f4ac29077584556c0abf
+timeCreated: 1428307641
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - Light_Tex: {instanceID: 0}
+  - Dark_Tex: {instanceID: 0}
+  - rend: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
